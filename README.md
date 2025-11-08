@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Mari, Desenvolvedora de Software
 
 - Desenvolvedora de software na Interact solutions;
-- No momento estou cursando graduação em análise e desenvolvimento de sistemas com previsão de conclusão em 2025;
+- Graduada em Análise e Desenvolvimento de Sistemas;
 - Formada no curso intensivo e emersivo CRIE TI;
 
 <div style="display: inline_block"><br>
